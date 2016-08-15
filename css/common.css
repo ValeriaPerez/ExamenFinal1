@@ -1,0 +1,34 @@
+a {
+	text-decoration: none;
+	color: white;
+}
+/*<<<<<<< HEAD*/
+.fondo {
+	background-color: #d8d8d8;
+}
+
+/*CARACTERISTICAS*/
+.mgn0 {
+	margin-top: 1%;
+}
+.mgb {
+	padding-bottom: 3%;
+}
+.mgp {
+	margin-bottom: 3%;
+}
+/*=======*/
+/*Margin*/
+.mgn {
+	margin-top: 3%;
+}
+.mgn1 {
+	margin-top: 5%;
+}
+.mgn2 {
+	margin-top: 7%;
+}
+.pd1 {
+	padding: 0 8%; 
+}
+/*>>>>>>>*/

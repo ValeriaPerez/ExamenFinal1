@@ -1,0 +1,175 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+/*<<<<<<< HEAD
+=======*/
+.acomodo {
+	display: inline-block;
+}
+.fondo1{
+	background-image: url('../img/background/hero.jpg');
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-size: 100%;
+	height: 600px;
+}
+.black {
+	opacity: 0.7;
+	height: 600px;
+}
+.boton{
+	background-color: #d8d8d8;
+}
+.boton, .boton2 {
+	width: 140px;
+	height: 50px;
+	margin: 2%;
+	border-radius: 10%;
+}
+button {
+	border: none;
+}
+/*>>>>>>>*/
+/*SECCIONES DE OPCIONES*/
+/*ICONOS*/
+i, .menu {
+	color: #0dc0c0;
+}
+.blue {
+	color: #00dfb6;
+}
+/*Fondo Laptos*/
+.fondo2, .fondo3 {
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size: 100%;
+	height: 600px;
+}
+.fondo2{
+	background-color: #D8D8D8;
+	background-image: url('../img/laptop-features.png');
+}
+/*Pelirroja*/
+.fotocustomer{
+	border-radius: 100%;
+	width: 10%;
+}
+/*Fondo contact us*/
+.fondo3{
+	background-image: url('../img/background/contactus.jpg');
+	opacity: 0.9;
+}
+/*Input*/
+input{
+	height: 30px;
+	width: 400px;
+	padding: 5px;
+	margin: 10px;
+	opacity: 0.2;	
+}
+.alta {
+	height: 150px;
+}
+.mediana{
+	height: 40px;
+}
+.botonsubmit{
+	width: 100px;
+	height: 40px;
+	border-style: 
+	background-color:#58FAF4 ;
+	position: relative;
+	left: 159px;	
+}
+.input{
+	position: relative;
+	left: 150px;
+}/*iconos*/
+.fa-map-marker, .fa-phone{
+	color:white;
+}
+/*<<<<<<<*/
+.mgn3 {
+	margin-top: 12%;
+}
+.pd1 {
+	padding: 0 8%; 
+}
+/*SECCIÓN PORTAFOLIO*/
+/*BOTONES*/
+.bt, .bt2, .color1 {
+	background-color: #0B0B61;
+}
+.bt, .opcion, .trans {
+	padding: 1% 1%;
+}
+.bt2 {
+	padding: 2% 8%;
+}
+.letra {
+	color: black;
+}
+.foto, .opcion, .rectangulo {
+	background-color: white;
+}
+/*FOTOS*/
+.foto {
+	padding: 2% 2% 0 2%;
+}
+.fto {
+	width: 100%;
+}
+/*IMAGEN EDIFICIOS*/
+/*FONDO*/
+.edificio {
+	background-image: url('../img/background/city.jpg');
+	background-size: 100% 190%;
+}
+.fondoE {
+	opacity: 0.7;
+}
+.fondoE, .black {
+	background-color: black;
+}
+.edificio, .fondoE {
+	height: 450px;
+}
+/*BOTON TRANSPARENTE*/
+.trans {
+	opacity: 0.4;
+	background-color: gray;
+}
+.frase {
+	margin-top: 15%;
+	font-size: 20px;
+}
+/*PAQUETES*/
+/*SECCIONES*/
+.color2 {
+	background-color: #0dc0c0;
+}
+.rectangulo {
+	padding: 10% 2% 10% 10%;
+}
+.letter {
+	margin: 20% 0;
+}
+.title {
+	margin: 10% 0;
+}
+hr {
+	margin: 0 10%;
+}
+.title, .star, .le, button h3 {
+	color: white;
+}
+p strong {
+	font-size: 22px;
+}
+footer div i {
+	color: black;
+}
+.fondo4{
+	background: #585858;
+/*>>>>>>> d7dca99685b14186b805c7b29d3a7d63a4450077
+}*/
